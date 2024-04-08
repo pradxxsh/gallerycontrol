@@ -25,8 +25,8 @@ Handle Item Selection: Implement functionality to respond when the user selects 
 ```
 /*
 Program to print the text “GalleryControl”.
-Developed by: ARPAN BARDHAN
-Registeration Number : 212222040013
+Developed by: PRADEESH KUMAR S
+Registeration Number : 212221040124
 */
 ```
 
